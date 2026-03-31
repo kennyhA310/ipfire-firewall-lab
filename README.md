@@ -19,15 +19,15 @@ This project demonstrates building a segmented network using IPFire firewall in 
 
 | Interface | Purpose | IP Address |
 |----------|---------------|------------------|
-| GREEN | Internal LAN | 192.168.10.1 |
-| BLUE | Wireless LAN | 192.168.20.1 |
+| GREEN | Internal LAN | 192.168.XX.X |
+| BLUE | Wireless LAN | 192.168.XX.X |
 | RED | Internet | DHCP Assigned |
 
 ## Firewall Rules Implemented
 
 1. **Block Wireless to LAN**
-- Source: BLUE (192.168.20.0/24)
-- Destination: GREEN (192.168.10.0/24)
+- Source: BLUE (192.168.XX.X/24)
+- Destination: GREEN (192.168.XX.X/24)
 - Action: DROP
 
 2. **Allow Wireless to Internet**
