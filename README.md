@@ -63,3 +63,10 @@ This project demonstrates building a segmented network using IPFire firewall in 
 - Proper segmentation prevents lateral movement
 - Firewall rules must be tested to confirm effectiveness
 - Virtual labs can simulate real enterprise environments
+
+## 📌 Project Highlights
+
+- Built a segmented virtual network using IPFire firewall
+- Implemented access control policies between network zones
+- Validated firewall behavior through real-world testing scenarios
+
