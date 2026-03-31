@@ -5,8 +5,8 @@ This project demonstrates building a segmented network using IPFire firewall in 
 
 ## Lab Architecture
 
-- **GREEN (LAN):** 192.168.10.0/24
-- **BLUE (Wireless):** 192.168.20.0/24
+- **GREEN (LAN):** 192.168.XX.X
+- **BLUE (Wireless):** 192.168.XX.X
 - **RED (Internet):** DHCP (External Network)
 
 ## Tools Used
