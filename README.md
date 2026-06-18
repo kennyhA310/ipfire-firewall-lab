@@ -1,7 +1,7 @@
 # IPFire Firewall Simulation
 
 ## Overview
-This project demonstrates building a segmented network using IPFire firewall in a virtual environment. The lab simulates real-world network security by separating LAN and wireless networks and enforcing firewall rules to control traffic flow.
+This simulation demonstrates building a segmented network using IPFire firewall in a virtual environment. The lab simulates real-world network security by separating LAN and wireless networks and enforcing firewall rules to control traffic flow.
 
 ## Lab Architecture
 
